@@ -1,4 +1,4 @@
-module devports
+module github.com/tuffs/devports
 
 go 1.27.1
 
