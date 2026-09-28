@@ -1,6 +1,7 @@
 # DevPorts
-# Language: GO @ 1.27.1
-# Addons: BubbleTea v1, Lipgloss v1
+
+## Language: GO @ 1.27.1
+## Addons: BubbleTea v1, Lipgloss v1
 
 ---
 
