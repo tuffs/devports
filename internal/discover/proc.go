@@ -6,13 +6,7 @@ import (
   "encoding/hex"
   "errors"
   "fmt"
-  "io/fs"
-  "net"
-  "os"
-  "path/filepath"
-  "slices"
-  "strconv"
-  "strings"
+  "
 )
 
 // Options controls which listeners Scan reports.
@@ -24,7 +18,7 @@ type Options struct {
 // listener is one LISTEN row from /proc/net/tcp{,6}.
 type listener struct {
   addr string
-  port unit16
+  port uint16
   inode string
 }
 
